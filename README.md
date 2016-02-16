@@ -1,2 +1,2 @@
 # test
-This Is Only A Test To Try GitHub Functionalities
+This Is Only A Test To Try GitHub Capabilities
